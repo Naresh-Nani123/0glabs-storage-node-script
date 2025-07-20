@@ -54,5 +54,5 @@ It's used only locally to configure the node.
 
 ## 🙋 Made By
 
-Made with ❤️ by Crypto Alerts
+This Script is Made by ❤️ Crypto Alerts
 Follow us on Twitter for more: https://x.com/CryptoAlertsNH
