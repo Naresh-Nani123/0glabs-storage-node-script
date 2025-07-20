@@ -17,7 +17,7 @@ Fully automated bash script to **install**, **configure**, **snapshot restore**,
 ## 📦 One-Line Setup (Recommended)
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/prodipmandal10/oglabs-one-clik/main/oglabs.sh)
+bash <(curl -s https://raw.githubusercontent.com/Naresh-Nani123/oglabs-one-clik/main/oglabs.sh)
 ```
 
 ---
