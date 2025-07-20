@@ -54,12 +54,5 @@ It's used only locally to configure the node.
 
 ## 🙋 Made By
 
-Made with ❤️ by [@ghantamaxpro](https://t.me/ghantamaxpro)  
-Join updates: [https://t.me/ghantamaxpro](https://t.me/ghantamaxpro)
-
----
-
-## 🪄 License
-
-MIT License — Free to use, modify, and share.  
-Give credit if you find it useful 💫
+Made with ❤️ by Crypto Alerts
+Follow us on Twitter for more: https://x.com/CryptoAlertsNH
